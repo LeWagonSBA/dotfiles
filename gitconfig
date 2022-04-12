@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sofianebenayada@hotmail.com
+	name = Sofiane Ben Ayada
